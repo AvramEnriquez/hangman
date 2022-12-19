@@ -1,6 +1,6 @@
 # hangman
 
-My hangman game. 
+A hangman game. 
 
 Partially created with the help of Kylie Ying's hangman tutorial found at: https://www.youtube.com/watch?v=8ext9G7xspg&t=1465s
 
